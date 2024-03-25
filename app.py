@@ -17,11 +17,10 @@ def f(spider):
         print(sys.exc_info())
         
 def run_spider(spider):
-    # p = Process(target=f, args=(spider, ))
-    # p.start()
-    # p.join()
-    f(spider=spider)
+    p = Process(target=f, args=(spider, ))
+    p.start()
+    p.join()
 if __name__ == '__main__':
     run_spider(IowaFoodHubSpider)
-    # run_spider(FreshThymeSpider)
-    # run_spider(JoiaFoodFarmSpider)
+    run_spider(FreshThymeSpider)
+    run_spider(JoiaFoodFarmSpider)
