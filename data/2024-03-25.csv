@@ -19,3 +19,23 @@ address,amount_in_dz,brand,city,current_price,localToIowa,original_price,product
 200 Railroad Street,,Iowa Food Hub,Decorah,$6.00,True,,"IFH Sweet Potatoes, Orange, 3 lbs",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,3 lb,3,52101
 200 Railroad Street,,Iowa Food Hub,Decorah,$5.00,True,,"IFH Rainbow Carrots, 2 lb or 5lb bag",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,5 lb bag,5,52101
 200 Railroad Street,,Humble Hands Harvest,Decorah,$6.00,False,,"HHHa Carrots, various",Iowa Food Hub,IA,,Humble Hands Harvest,Harvest Glen Dr Humble TX 77346,5 lb,5,52101
+200 Railroad Street,,Rahe of Sunshine Farms,Decorah,$6.00,False,,"RSF Green Butterhead Lettuce, 8 oz",Iowa Food Hub,IA,,Rahe of Sunshine Farms,331 Eatonville Rd Hattiesburg MS 39401,8 oz,0.5,52101
+200 Railroad Street,,Rahe of Sunshine Farms,Decorah,$6.00,False,,"RSF Five Star Lettuce Mix, 8 oz.",Iowa Food Hub,IA,,Rahe of Sunshine Farms,331 Eatonville Rd Hattiesburg MS 39401,8 oz,0.5,52101
+200 Railroad Street,,Fiddlehead Knob,Decorah,$45.00,False,,"FHK Powdered Lion's Mane Mushrooms, 4 oz",Iowa Food Hub,IA,,Fiddlehead Knob,Fiddlehead Rd Williston VT 05495,4 oz,0.25,52101
+200 Railroad Street,,Fiddlehead Knob,Decorah,$10.00,False,,"FHK Mushrooms, Lion's Mane, 1/2 lb",Iowa Food Hub,IA,,Fiddlehead Knob,Fiddlehead Rd Williston VT 05495,0.5 lb,0.5,52101
+200 Railroad Street,,Winneshiek Beef Pork & Poultry,Decorah,$18.00,False,,WBP Pork Bacon,Iowa Food Hub,IA,,Winneshiek Beef Pork & Poultry,51 N 12th St Philadelphia PA 19107,3 lb,3,52101
+200 Railroad Street,,Fiddlehead Knob,Decorah,$10.00,False,,"FHK Mushrooms, Blue Oyster, 1/2 lb",Iowa Food Hub,IA,,Fiddlehead Knob,Fiddlehead Rd Williston VT 05495,0.5 lb,0.5,52101
+200 Railroad Street,,Fiddlehead Knob,Decorah,$10.00,False,,"FHK Dried Chestnut Mushrooms, 1 oz",Iowa Food Hub,IA,,Fiddlehead Knob,Fiddlehead Rd Williston VT 05495,1 oz,0.0625,52101
+200 Railroad Street,,Fiddlehead Knob,Decorah,$10.00,False,,"FHK Dried Oyster Mushrooms, 1 oz",Iowa Food Hub,IA,,Fiddlehead Knob,Fiddlehead Rd Williston VT 05495,1 oz,0.0625,52101
+200 Railroad Street,,Reconnected Farms,Decorah,$6.00,False,,"RCF Mushrooms, Oyster, 1/2 pound",Iowa Food Hub,IA,,Reconnected Farms,,0.5 lb,0.5,52101
+200 Railroad Street,,Reconnected Farms,Decorah,$8.00,False,,"RCF Mushrooms, Lion's Mane, 1/2 pound",Iowa Food Hub,IA,,Reconnected Farms,,0.5 lb,0.5,52101
+200 Railroad Street,,Reconnected Farms,Decorah,$8.00,False,,"RCF Mushrooms, Chestnut, 1/2 pound",Iowa Food Hub,IA,,Reconnected Farms,,0.5 lb,0.5,52101
+200 Railroad Street,,Fiddlehead Knob,Decorah,$10.00,False,,"FHK Dried King Trumpet Mushrooms, 1 oz",Iowa Food Hub,IA,,Fiddlehead Knob,Fiddlehead Rd Williston VT 05495,1 oz,0.0625,52101
+200 Railroad Street,,Iowa Food Hub,Decorah,$4.00,True,,"IFH Fingerling Potatoes, Red, 2lb bag",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,2 lb,2,52101
+200 Railroad Street,,Iowa Food Hub,Decorah,$55.00,True,,"IFH Sweet Potatoes, Orange, 40lb case,",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,40 lb,40,52101
+200 Railroad Street,,Iowa Food Hub,Decorah,$30.00,True,,"IFH Conventional Potatoes, 50lb bag",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,50 lb bag,50,52101
+200 Railroad Street,,Iowa Food Hub,Decorah,$6.00,True,,"IFH Sweet Potatoes, Purple, 3 lbs,",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,3 lb,3,52101
+200 Railroad Street,,Iowa Food Hub,Decorah,$5.00,True,,"IFH Driftless Organics Potatoes, various",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,2 lb bag,2,52101
+200 Railroad Street,,Iowa Food Hub,Decorah,$5.00,True,,"IFH Rainbow Carrots, 2 lb or 5lb bag",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,5 lb bag,5,52101
+200 Railroad Street,,Iowa Food Hub,Decorah,$6.00,True,,"IFH Sweet Potatoes, Orange, 3 lbs",Iowa Food Hub,IA,,Iowa Food Hub,124 E Elm St West Union IA 52175,3 lb,3,52101
+200 Railroad Street,,Humble Hands Harvest,Decorah,$6.00,False,,"HHHa Carrots, various",Iowa Food Hub,IA,,Humble Hands Harvest,Harvest Glen Dr Humble TX 77346,5 lb,5,52101
