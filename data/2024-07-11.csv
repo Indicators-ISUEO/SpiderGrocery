@@ -1,0 +1,136 @@
+address,amount_in_dz,brand,city,current_price,localToIowa,original_price,product,source,state,true_amount,vendor,vendorAddress,weight,weight_lbs,zip
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$2.99,False,- -$2.99,-Organic Red Leaf Lettuce - 1 Each,Fresh Thyme Market,IA,1 dz,,,,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.49,False,- -$3.49,-Josie's Organic Baby Lettuces - 5 Ounce,Fresh Thyme Market,IA,,,S Fifth St San Jose CA 95112,-$0.70/oz,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$3.99,False,- -$3.99,-Organic Iceberg Lettuce - 1 Each,Fresh Thyme Market,IA,1 dz,,Lettuce Ln New Smyrna Beach FL 32168,,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$2.99,False,- -$2.99,-Organic Living Butter Lettuce - 1 Each,Fresh Thyme Market,IA,1 dz,,,,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$6.99,False,- -$6.99,-Cascadian Farm Organic Strawberries - 10 Ounce,Fresh Thyme Market,IA,,,1480 County Road 32 Crysler North Stormont Ontario K0A 1R0,-$0.70/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.99,False,- -$2.99,-Wyman's Strawberries - 15 Ounce,Fresh Thyme Market,IA,,,,-$0.20/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,False,- -$4.99,-Organic Strawberries - 16 Ounce,Fresh Thyme Market,IA,,,1480 County Road 32 Crysler North Stormont Ontario K0A 1R0,-$0.31/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.99,False,- -$2.99,-Strawberries - 16 Ounce,Fresh Thyme Market,IA,,,,-$0.19/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.50,False,- -$3.50,-Strawberries - 32 Ounce,Fresh Thyme Market,IA,,,1480 County Road 32 Crysler North Stormont Ontario K0A 1R0,-$0.11/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.79,False,- -$4.79,-Jonny Pops Raspberries & Blueberries Pops - 8.24 Fluid ounce,Fresh Thyme Market,IA,,,3600 Alabama Ave S Saint Louis Park MN 55416,-$0.58/fl oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.49,False,- -$3.49,-Chocolove Raspberries In Dark Chocolate Bar - 3.2 Ounce,Fresh Thyme Market,IA,,,,-$1.09/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$6.99,False,- -$6.99,-Fresh Thyme Organic Frozen Raspberries - 10 Ounce,Fresh Thyme Market,IA,,,,-$0.70/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$7.99,False,- -$7.99,-Natierra Organic Freeze Dried Raspberries - 1.3 Ounce,Fresh Thyme Market,IA,,,,-$6.15/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99 avg/ea,False,- -$3.99 avg/ea,-Albanese Gummi Berry Red Raspberries - 1 Pound,Fresh Thyme Market,IA,,,,-$3.99/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.99,False,- -$5.99,-Organic Raspberries - 6 Ounce,Fresh Thyme Market,IA,,,,-$1.00/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Raspberries - 6 Ounce,Fresh Thyme Market,IA,,,,-$0.67/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$6.49,False,- -$6.49,-Delallo Italian Garlic Mushrooms - 7 Ounce,Fresh Thyme Market,IA,,,6390 State Route 30 Jeannette PA 15644,-$0.93/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-That's Tasty Dried Forest Blend Mushrooms - 0.5 Ounce,Fresh Thyme Market,IA,,,5 Mushroom Ln Albrightsville PA 18210,-$7.98/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-That's Tasty Dried Shitake Mushrooms - 0.5 Ounce,Fresh Thyme Market,IA,,,,-$7.98/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-That's Tasty Dried Portabella Mushrooms - 0.5 Ounce,Fresh Thyme Market,IA,,,5 Portabella Dr Hardeeville SC 29927-4945,-$7.98/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$6.29,False,- -$6.29,-Napoleon Marinated Mushrooms - 8 Ounce,Fresh Thyme Market,IA,,,8 Napoleon St Melbourne VIC 3066,-$0.79/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-That's Tasty Dried Porcini Mushrooms - 0.5 Ounce,Fresh Thyme Market,IA,,,,-$7.98/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.69,False,- -$2.69,-Highline Organic Sliced White Mushrooms - 8 Ounce,Fresh Thyme Market,IA,,,8th Ave SW Seattle WA 98146,-$0.34/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Highline Organic Whole White Mushrooms - 16 Ounce,Fresh Thyme Market,IA,,,16th Ave SW Seattle WA 98146,-$0.25/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-That's Tasty Dried Oyster Mushrooms - 0.5 Ounce,Fresh Thyme Market,IA,,,,-$7.98/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$11.99,False,- -$11.99,-That's Tasty Dried Morel Mushrooms - 0.5 Ounce,Fresh Thyme Market,IA,,,,-$23.98/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,False,- -$4.99,-That's Tasty Dried Chanterelle Mushrooms - 0.5 Ounce,Fresh Thyme Market,IA,,,5 Chanterelle Dr Conception Bay South NL A1W,-$9.98/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.69,False,- -$2.69,-Highline Organic Sliced White Mushrooms - 8 Ounce,Fresh Thyme Market,IA,,,8th Ave SW Seattle WA 98146,-$0.34/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Highline Organic White Stuffer Mushrooms - 14 Ounce,Fresh Thyme Market,IA,,,14th Ave SW Seattle WA 98106,-$0.28/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,False,- -$4.99,-Highline Organic Saute Blend Mushrooms - 8 Ounce,Fresh Thyme Market,IA,,,Highline Rd Bend OR 97703,-$0.62/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Highline Organic Oyster Mushrooms - 3 Ounce,Fresh Thyme Market,IA,,,,-$1.33/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.79,True,- -$2.79,-Highline Organic Mini Bella Mushrooms - 8 Ounce,Fresh Thyme Market,IA,,,1110 N Quincy Ave Ottumwa IA 52501,-$0.35/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.49,False,- -$2.49,-Highline Organic White Mushrooms - 8 Ounce,Fresh Thyme Market,IA,,,8th Ave SW Seattle WA 98146,-$0.31/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.99,False,- -$2.99,-Highline Organic Sliced Bella Mushrooms - 8 Ounce,Fresh Thyme Market,IA,,, Burien WA 98168,-$0.37/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,True,- -$4.99,-Highline Organic Mini Bella Mushrooms - 16 Ounce,Fresh Thyme Market,IA,,,1110 N Quincy Ave Ottumwa IA 52501,-$0.31/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Highline Organic Shiitake Mushrooms - 4 Ounce,Fresh Thyme Market,IA,,,,-$1.00/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.69,False,- -$5.69,-Godshalls Uncured Pork Bacon - 8 Ounce,Fresh Thyme Market,IA,,,8 Bacon St Bethelsdorp EC 6059,-$0.71/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$14.99,False,- -$14.99,-Certified Angus Beef Steak Burgers 6 Ct - 32 Ounce,Fresh Thyme Market,IA,,,251 E 1995 Rd Boswell OK 74727,-$0.47/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.49,False,- -$2.49,-Epic Wagyu Beef Steak Strip - 0.8 Ounce,Fresh Thyme Market,IA,,,,-$3.11/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.49,False,- -$5.49,-Happy Tot Organic Bananas & Carrots Fiber & Protein Oat Bar - 4.4 Ounce,Fresh Thyme Market,IA,,,1100 N Peters St New Orleans LA 70116,-$1.25/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$0.99,False,- -$0.99,-Fresh Thyme Sliced Carrots - 15 Ounce,Fresh Thyme Market,IA,,,6569 N Illinois St Fairview Heights IL 62208,-$0.07/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Fullgreen Riced Cauliflower With Peas And Carrots - 6.7 Ounce,Fresh Thyme Market,IA,,,,-$0.60/oz,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$3.99,False,- -$3.99,-Organic Baby Peeled Carrots 2 Lb Bag - 1 Each,Fresh Thyme Market,IA,1 dz,,200 Santa Monica Pier Santa Monica CA 90401,,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.49,False,- -$2.49,-Organic Cut & Peeled Petite Carrots - 12 Ounce,Fresh Thyme Market,IA,,,,-$0.21/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$24.99,False,- -$24.99,-Organic Juicing Carrots 25 Lb Bag - 25 Pound,Fresh Thyme Market,IA,,,   ,-$1.00/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.49,False,- -$3.49,-Braga Farms Broccoli & Carrots - 12 Ounce,Fresh Thyme Market,IA,,,,-$0.29/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.49,False,- -$3.49,-Sno Pac Organic Peas And Carrots - 10 Ounce,Fresh Thyme Market,IA,,,226 Calle Río Colorado Oriente Del Valle NL 66220,-$0.35/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.49,False,- -$3.49,-Organic Bag Rainbow Carrots - 2 Pound,Fresh Thyme Market,IA,,,348 Danforth Ave Toronto ON M4K 1N8,-$1.75/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.99,False,- -$1.99,-Fresh Thyme Peas And Carrots - 10 Ounce,Fresh Thyme Market,IA,,,4320 Coldwater Rd Fort Wayne IN 46805,-$0.20/oz,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$2.99,False,- -$2.99,-Organic Bunched Carrots - 1 Each,Fresh Thyme Market,IA,1 dz,,226 Calle Río Colorado Oriente Del Valle NL 66220,,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.99,False,- -$5.99,-Organic Bag Carrots - 5 Pound,Fresh Thyme Market,IA,,,348 Danforth Ave Toronto ON M4K 1N8,-$1.20/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.99,False,- -$1.99,-Organic Shredded Carrots - 10 Ounce,Fresh Thyme Market,IA,,,2428 W Valley Blvd Alhambra CA 91803,-$0.20/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$0.30 avg/ea,False,- -$0.30 avg/ea,-Organic Loose Carrots - 0.2 Pound,Fresh Thyme Market,IA,,,2 Carrots Pasig NCR 1604,-$1.49/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.49,False,- -$2.49,-Organic Rainbow Baby Carrots - 12 Ounce,Fresh Thyme Market,IA,,,12 Babe Jackson Dr Rainbow City AL 35906-8510,-$0.21/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.99,False,- -$2.99,-Organic Bag Carrots - 2 Pound,Fresh Thyme Market,IA,,,348 Danforth Ave Toronto ON M4K 1N8,-$1.50/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.99,False,- -$1.99,-Organic Baby Carrots - 1 Pound,Fresh Thyme Market,IA,,,226 Calle Río Colorado Oriente Del Valle NL 66220,-$1.99/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$6.49,False,- -$6.49,-Via Emilia Crinkled Fried Potatoes - 24 Ounce,Fresh Thyme Market,IA,,,24 Via Emilia Fidenza 45 43036,-$0.27/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.49,False,- -$2.49,-Petite Carrots - 16 Ounce,Fresh Thyme Market,IA,,,,-$0.16/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Simply Potatoes Shredded Hash Browns - 20 Ounce,Fresh Thyme Market,IA,,,,-$0.20/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.49,False,- -$1.49,-Organic Bag Carrots - 16 Ounce,Fresh Thyme Market,IA,,,16 Ounce St Dunkirk NY 14048-1236,-$0.09/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Simply Potatoes Steakhouse Seasoned Diced Potatoes - 20 Ounce,Fresh Thyme Market,IA,,,1401 N Loop 1604 W San Antonio TX 78258,-$0.20/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$6.99,False,- -$6.99,-Amy's Veggie Loaf With Potatoes & Vegetables - 10 Ounce,Fresh Thyme Market,IA,,,,-$0.70/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.29,False,- -$4.29,-Reser's Scalloped Potatoes - 12 Ounce,Fresh Thyme Market,IA,,,,-$0.36/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.99,False,- -$2.99,-Edward & Sons Organic Roasted Garlic Mashed Potatoes - 3.5 Ounce,Fresh Thyme Market,IA,,, Two Borders Manitoba R0M,-$0.85/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.99,False,- -$2.99,-Edward & Sons Organic Homestyle Mashed Potatoes - 3.5 Ounce,Fresh Thyme Market,IA,,, Two Borders Manitoba R0M,-$0.85/oz,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$3.99,False,- -$3.99,-Russet Potatoes 4 Pack - 1 Each,Fresh Thyme Market,IA,1 dz,,1 Russet Ln Huntington NY 11743-2255,,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.49,False,- -$5.49,-Bob Evans Mashed Garlic Potatoes - 24 Ounce,Fresh Thyme Market,IA,,,594 E 24th St Holland MI 49423,-$0.23/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.99,False,- -$1.99,-Idaho Potatoes Buttery Homestyle Mashed Potatoes - 4 Ounce,Fresh Thyme Market,IA,,,,-$0.50/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.49,False,- -$1.49,-Idaho Potatoes Baby Red Mashed Potatoes - 4.1 Ounce,Fresh Thyme Market,IA,,,,-$0.36/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$6.99,False,- -$6.99,-Street Grub Bowls Beef Meatloaf With Mashed Potatoes And Broccoli - 12 Ounce,Fresh Thyme Market,IA,,,12 Broccoli St Cape Town  7798,-$0.58/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.49,False,- -$5.49,-Bob Evans Original Mashed Potatoes - 24 Ounce,Fresh Thyme Market,IA,,,594 E 24th St Holland MI 49423,-$0.23/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Organic Red Potatoes Bag - 3 Pound,Fresh Thyme Market,IA,,,3 Blue Pond Ln Ponce de Leon FL 32455-5720,-$1.33/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Organic Russet Potatoes Bag - 3 Pound,Fresh Thyme Market,IA,,,3 Russet Ln Cape Elizabeth ME 04107-2216,-$1.33/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$3.99,False,- -$3.99,-Organic Yukon Gold Potatoes 3 Lb Bag - 3 Pound,Fresh Thyme Market,IA,,,3 ME-3 Bar Harbor ME 04609-7544,-$1.33/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.99,False,- -$5.99,-Cascadian Farm Organic Spud Puppies Shredded Potatoes - 16 Ounce,Fresh Thyme Market,IA,,,121 Upper Ganges Rd Ganges British Columbia V8K 2S2,-$0.37/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,False,- -$4.99,-Organic Sunrise Medley Potatoes - 24 Ounce,Fresh Thyme Market,IA,,,24 Younce Dr Burlington WV 26710,-$0.21/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,False,- -$4.99,-Organic Ruby Sensation Potatoes - 24 Ounce,Fresh Thyme Market,IA,,,24 Sensation Rd Rock Hill SC 29732-9760,-$0.21/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.12 avg/ea,False,- -$1.12 avg/ea,-Red Rose Potatoes - 0.75 Pound,Fresh Thyme Market,IA,,,71 Red Rose Bracknell ENG RG42 5LJ,-$1.49/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.12 avg/ea,False,- -$1.12 avg/ea,-Yukon Gold Potatoes - 0.75 Pound,Fresh Thyme Market,IA,,,75 Pound Road Tonbridge ENG TN12 5AZ,-$1.49/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$2.99,False,- -$2.99,-Idaho Russet Potatoes Bag - 5 Pound,Fresh Thyme Market,IA,,,,-$0.60/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.99,False,- -$5.99,-Bag Yukon Gold Potatoes - 5 Pound,Fresh Thyme Market,IA,,,5 Pound Road Tonbridge ENG TN12 5AU,-$1.20/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$0.99 avg/ea,False,- -$0.99 avg/ea,-Russet Baking Potatoes - 1 Pound,Fresh Thyme Market,IA,,,1 Russet Ln Basking Ridge NJ 07920-3502,-$0.99/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,False,- -$4.99,-Organic Honey Gold Potatoes - 24 Ounce,Fresh Thyme Market,IA,,,24 Honey Crk Fredericksburg TX 78624,-$0.21/oz,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$1.61 avg/ea,False,- -$1.61 avg/ea,-Sweet Potatoes - 1.25 Pound,Fresh Thyme Market,IA,,,607 N Trade St Winston Salem NC 27101,-$1.29/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$5.99,False,- -$5.99,-Bag Red Potatoes - 5 Pound,Fresh Thyme Market,IA,,,5 Pound Road Bristol ENG BS15 4RB,-$1.20/lb,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$4.99,False,- -$4.99,-Organic Purple Potatoes - 24 Ounce,Fresh Thyme Market,IA,,,24 Prescot Street E1 England E1 8BB,-$0.21/oz,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$1.99,False,- -$1.99,-Organic Green Onions - 1 Each,Fresh Thyme Market,IA,1 dz,,1 S Green Valley Rd Watsonville CA 95076,,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$0.99,False,- -$0.99,-Green Onions - 1 Each,Fresh Thyme Market,IA,1 dz,,1 S Green Valley Rd Watsonville CA 95076,,,50266
+2900 University Ave. Suite 240,,,West Des Moines,- -$7.99,False,- -$7.99,-Bilinski's Organic Spinach & Spring Greens Chicken Sausage - 12 Ounce,Fresh Thyme Market,IA,,,9801 Rhode Island Ave College Park MD 20740,-$0.67/oz,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$2.99,False,- -$2.99,-Organic Green Leaf Lettuce - 1 Each,Fresh Thyme Market,IA,1 dz,,1 Greenleaf Dr Huntington NY 11743-4814,,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$1.99,False,- -$1.99,-Romaine Lettuce - 1 Each,Fresh Thyme Market,IA,1 dz,,W Terra Mar Dr Pompano Beach FL 33062,,,50266
+2900 University Ave. Suite 240,1.0,,West Des Moines,- -$1.99,False,- -$1.99,-Green Leaf Lettuce - 1 Each,Fresh Thyme Market,IA,1 dz,,1 Greenleaf Dr Huntington NY 11743-4814,,,50266
+2038 March Avenue,,Joia food farm,Charles City,$6.00,True,,Duck eggs,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$14.00,True,,Lamb bones,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,2 lb,2,50616
+2038 March Avenue,,Joia food farm,Charles City,$10.00,True,,Lamb neck,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,65 lb,65,50616
+2038 March Avenue,,Joia food farm,Charles City,$5.00,True,,Free range eggs - for delivery only,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,,True,,Sliced lamb gyro,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1 lb,1,50616
+2038 March Avenue,,Joia food farm,Charles City,$11.00,True,,Lamb rib chops,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,5 lb,5,50616
+2038 March Avenue,,Joia food farm,Charles City,$17.00,True,,Lamb merguez sausage,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1.0 lb,1.0,50616
+2038 March Avenue,,Joia food farm,Charles City,$16.00,True,,Lamb stew meat,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1.0 lb,1.0,50616
+2038 March Avenue,,Joia food farm,Charles City,$10.00,True,,Lamb loin chops,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,5 lb,5,50616
+2038 March Avenue,,Joia food farm,Charles City,from $80.70,True,,Leg of lamb,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,6 lb,6,50616
+2038 March Avenue,,Joia food farm,Charles City,$15.00,True,,Ground lamb,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1 lb,1,50616
+2038 March Avenue,,Joia food farm,Charles City,$7.00,True,,Lamb liver,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,12 oz,0.75,50616
+2038 March Avenue,,Joia food farm,Charles City,$28.60,True,,Lamb shanks,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,2.2 lb,2.2,50616
+2038 March Avenue,,Joia food farm,Charles City,$3.00,True,,Pork fat,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1 lb,1,50616
+2038 March Avenue,,Joia food farm,Charles City,$7.50,True,,Lamb snack sticks,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$13.50,True,,Bone-in pork chops,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1.5 lb,1.5,50616
+2038 March Avenue,,Joia food farm,Charles City,$4.00,True,,Pork liver,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$12.00,True,,Pork Hot dogs,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1 lb,1,50616
+2038 March Avenue,,Joia food farm,Charles City,$9.00,True,,Mild Italian pork sausage,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1 lb,1,50616
+2038 March Avenue,,Joia food farm,Charles City,$15.00,True,,Beef soup bones,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,2.5 lb,2.5,50616
+2038 March Avenue,,Joia food farm,Charles City,$8.50,True,,Ground pork,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$50.00,True,,Whole turkey deposit,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$36.00,True,,Beef Tongue,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,2.5 lb,2.5,50616
+2038 March Avenue,,Joia food farm,Charles City,$20.00,True,,Beef Tenderloin Fillet/Filet Mignon,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,12 oz,0.75,50616
+2038 March Avenue,,Joia food farm,Charles City,$30.00,True,,Beef arm roast,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,3 lb,3,50616
+2038 March Avenue,,Joia food farm,Charles City,$10.00,True,,Stew Beef,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1.25 lb,1.25,50616
+2038 March Avenue,,Joia food farm,Charles City,from $100.00,True,,Grassfed beef deposit,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,4.0/lb,1.0,50616
+2038 March Avenue,,Joia food farm,Charles City,$15.00,True,,Chicken carcass - soupstock,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$10.00,True,,Ground Beef - 100% grassfed,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1.05 lb,1.05,50616
+2038 March Avenue,,Joia food farm,Charles City,$9.00,True,,Beef Liver,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$13.50,True,,Chicken drumsticks,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$17.00,True,,Boneless chicken breasts,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1.25 lb,1.25,50616
+2038 March Avenue,,Joia food farm,Charles City,$25.00,True,,Chicken wings,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,3 lb,3,50616
+2038 March Avenue,,Joia food farm,Charles City,$20.00,True,,Chicken thighs,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,from $22.40,True,,Whole chicken,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,from $10.50,True,,Pork hock,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,3 lb,3,50616
+2038 March Avenue,,Joia food farm,Charles City,$24.00,True,,Pork spare ribs,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,from $25.00,True,,Pork Roast,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,3 lb,3,50616
+2038 March Avenue,,Joia food farm,Charles City,$300.00,True,,25 lb. pork bundle box,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,3 lb,3,50616
+2038 March Avenue,,Joia food farm,Charles City,$9.00,True,,Boneless pork chops,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,,,50616
+2038 March Avenue,,Joia food farm,Charles City,$9.00,True,,Breakfast pork sausage,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,1 lb,1,50616
+2038 March Avenue,,Joia food farm,Charles City,$200.00,True,,Whole lamb deposit,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,40 lb,40,50616
+2038 March Avenue,,Joia food farm,Charles City,$100.00,True,,Half lamb deposit,Joia food farm,IA,,Joia food farm,2038 March Ave Charles City IA 50616,20 lb,20,50616
